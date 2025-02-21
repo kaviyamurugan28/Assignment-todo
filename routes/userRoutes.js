@@ -6,4 +6,3 @@ const router = exp.Router();
 router.post("/register", resUserController)
 router.post("/login",loginContrller)
 
-export default router;
